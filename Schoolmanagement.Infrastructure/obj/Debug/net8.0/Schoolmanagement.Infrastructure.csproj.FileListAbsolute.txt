@@ -1,0 +1,17 @@
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\bin\Debug\net8.0\Schoolmanagement.Infrastructure.deps.json
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\bin\Debug\net8.0\Schoolmanagement.Infrastructure.runtimeconfig.json
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\bin\Debug\net8.0\Schoolmanagement.Infrastructure.dll
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\bin\Debug\net8.0\Schoolmanagement.Infrastructure.pdb
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\bin\Debug\net8.0\SchoolManagement.Domain.dll
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\bin\Debug\net8.0\SchoolManagement.Domain.pdb
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\Schoolmanagement.Infrastructure.csproj.AssemblyReference.cache
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\Schoolmanagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\Schoolmanagement.Infrastructure.AssemblyInfoInputs.cache
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\Schoolmanagement.Infrastructure.AssemblyInfo.cs
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\Schoolmanagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\Schoolmanagement.Infrastructure.dll
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\refint\Schoolmanagement.Infrastructure.dll
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\Schoolmanagement.Infrastructure.pdb
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\Schoolmanagement.Infrastructure.genruntimeconfig.cache
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\ref\Schoolmanagement.Infrastructure.dll
+E:\SchoolManagement\backend\Schoolmanagement.Infrastructure\obj\Debug\net8.0\SchoolMa.324EA75F.Up2Date

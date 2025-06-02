@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SMwLuSr1sms=",
+  "success": true,
+  "projectFilePath": "E:\\SchoolManagement\\backend\\SchoolManagement.Domain\\SchoolManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nites\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\nites\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\nites\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

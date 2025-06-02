@@ -1,0 +1,11 @@
+E:\SchoolManagement\backend\SchoolManagement.Domain\bin\Debug\net8.0\SchoolManagement.Domain.deps.json
+E:\SchoolManagement\backend\SchoolManagement.Domain\bin\Debug\net8.0\SchoolManagement.Domain.dll
+E:\SchoolManagement\backend\SchoolManagement.Domain\bin\Debug\net8.0\SchoolManagement.Domain.pdb
+E:\SchoolManagement\backend\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SchoolManagement\backend\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.AssemblyInfoInputs.cache
+E:\SchoolManagement\backend\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.AssemblyInfo.cs
+E:\SchoolManagement\backend\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.csproj.CoreCompileInputs.cache
+E:\SchoolManagement\backend\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.dll
+E:\SchoolManagement\backend\SchoolManagement.Domain\obj\Debug\net8.0\refint\SchoolManagement.Domain.dll
+E:\SchoolManagement\backend\SchoolManagement.Domain\obj\Debug\net8.0\SchoolManagement.Domain.pdb
+E:\SchoolManagement\backend\SchoolManagement.Domain\obj\Debug\net8.0\ref\SchoolManagement.Domain.dll
